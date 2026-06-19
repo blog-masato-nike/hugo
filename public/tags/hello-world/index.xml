@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Hello World on ないきまさとの部屋</title>
-		<link>https://contents.masato-nike.net/tags/hello-world/</link>
+		<link>http://localhost:1313/tags/hello-world/</link>
 		<description>Recent content in Hello World on ないきまさとの部屋</description>
 		<generator>Hugo</generator>
 		<language>ja</language>
@@ -16,33 +16,33 @@
 		
 			<lastBuildDate>Thu, 08 Dec 2022 23:53:46 +0900</lastBuildDate>
 		
-			<atom:link href="https://contents.masato-nike.net/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>久しぶりの更新</title>
-				<link>https://contents.masato-nike.net/posts/2022-12-08-long-time-no-see/</link>
+				<link>http://localhost:1313/posts/2022-12-08-long-time-no-see/</link>
 				<pubDate>Thu, 08 Dec 2022 21:28:00 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/posts/2022-12-08-long-time-no-see/</guid>
+				<guid>http://localhost:1313/posts/2022-12-08-long-time-no-see/</guid>
 				<description>&lt;p&gt;久しぶりの更新です。&lt;!-- raw HTML omitted --&gt;&#xA;かれこれ2年ぐらい放置していたみたい。&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;なぜ放置してたかというと、&#xA;メインパソコンをWindows11の高速パソコンに買い替えた際に、&#xA;Octopressの環境を入れていなかったため、&#xA;環境を構築するの『めんどくさいなぁ』と手つかずでした（汗）&lt;!-- raw HTML omitted --&gt;&#xA;ということで、正直、Octopressの使い方も忘れてしまった（笑）&lt;!-- raw HTML omitted --&gt;&#xA;ということで、正常に投稿できるかわからない（涙）&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;さすがに2年間も放置していると、記事を投稿するのに必要なソフトもいろいろ違ってくるようです。&lt;!-- raw HTML omitted --&gt;&#xA;そこで今回は新たにOctopress環境を構築する際に行ったことを書いていきたいと思います。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Hello!Hugo</title>
-				<link>https://contents.masato-nike.net/posts/2020-05-01-hello/</link>
+				<link>http://localhost:1313/posts/2020-05-01-hello/</link>
 				<pubDate>Fri, 01 May 2020 05:46:14 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/posts/2020-05-01-hello/</guid>
+				<guid>http://localhost:1313/posts/2020-05-01-hello/</guid>
 				<description>&lt;p&gt;Hello!Hugo&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>久しぶりです!Octopress</title>
-				<link>https://contents.masato-nike.net/posts/2017-10-07-hello/</link>
+				<link>http://localhost:1313/posts/2017-10-07-hello/</link>
 				<pubDate>Sat, 07 Oct 2017 08:23:00 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/posts/2017-10-07-hello/</guid>
+				<guid>http://localhost:1313/posts/2017-10-07-hello/</guid>
 				<description>&lt;p&gt;久しぶりです!Octopress&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Hello!Octopress</title>
-				<link>https://contents.masato-nike.net/posts/2016-06-12-hello/</link>
+				<link>http://localhost:1313/posts/2016-06-12-hello/</link>
 				<pubDate>Sun, 12 Jun 2016 06:34:46 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/posts/2016-06-12-hello/</guid>
+				<guid>http://localhost:1313/posts/2016-06-12-hello/</guid>
 				<description>&lt;p&gt;Hello!Octopress&lt;/p&gt;</description>
 			</item>
 	</channel>

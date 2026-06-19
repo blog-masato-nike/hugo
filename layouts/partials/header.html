@@ -4,7 +4,16 @@
 <header>
 {{ end }}
     <div class="container">
-        <div class="logo">
+<h1 id="logo"><a href="index.html"><img src="images/logo_title.webp" alt="ないきまさとの部屋"></a></h1>
+<!--スライドショー-->
+<aside id="mainimg">
+<img src="images/header_01_pc.webp" alt="" class="slide0">
+<img src="images/header_02_yz.webp" alt="" class="slide1">
+<img src="images/header_03_cake.webp" alt="" class="slide2">
+<img src="images/header_04_live.webp" alt="" class="slide3">
+</aside>
+
+<!--        <div class="logo">
             <a id="siteBaseUrl" href="{{ .Site.BaseURL | relLangURL }}" class="logo">
                 {{ if and (isset .Site.Params "customimage") (ne .Site.Params.customImage "") }}
                 <img src="{{ .Site.Params.customImage | relURL }}" alt="">
@@ -13,20 +22,21 @@
                 {{ end }}
 
                 <span class="overlay">
-			<!-- <i class="fa {{ .Site.Params.overlayIcon | default "fa-home" }}"></i> -->
+			<i class="fa {{ .Site.Params.overlayIcon | default "fa-home" }}"></i>
 	                <img src="{{ .Site.Params.overlayIcon | relURL }}" alt="">
 		</span>
             </a>
         </div>
         <div class="titles">
             <h3 class="title">
-		<!-- <a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Title | default "My cool new blog" }}</a> -->
+		<a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Title | default "My cool new blog" }}</a>
 		<a href="https://www.masato-nike.net/">{{ .Site.Title | default "My cool new blog" }}</a> 
             </h3>
             {{ with .Site.Params.Subtitle }}
             <span class="subtitle">{{ . }}</span>
             {{ end }}
         </div>
+-->
 
         {{ if and (gt .Site.Languages 1) (.Site.Params.showHeaderLanguageChooser | default true) }}
         {{- $.Scratch.Set "language" .Language -}}
@@ -38,6 +48,7 @@
                 <a href="{{ .Permalink }}">{{ .Language }}</a>
             {{ end }}
         {{ end }}
+-->
         </div>
         {{ end }}
 </header>

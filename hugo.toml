@@ -171,11 +171,11 @@ email = "masato_nike@masato-nike.net"
 ###  rss = true
   lastmod = true
 ###  location = "Japan"
-  customCSS = ["/static/css/custom.css", "/static/css/syntax.css"]
+  customCSS = ["/css/custom.css", "/css/syntax.css", "/css/slide.css"]
 
   [[params.links]]
     title = "Link"
-    href = "/static/"
+    href = "/"
 
 
 # customize your available languages for your multi-lingual site

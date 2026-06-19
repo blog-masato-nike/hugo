@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Windows on ないきまさとの部屋</title>
-		<link>https://contents.masato-nike.net/tags/windows/</link>
+		<link>http://localhost:1313/tags/windows/</link>
 		<description>Recent content in Windows on ないきまさとの部屋</description>
 		<generator>Hugo</generator>
 		<language>ja</language>
@@ -16,19 +16,19 @@
 		
 			<lastBuildDate>Thu, 08 Dec 2022 21:24:26 +0900</lastBuildDate>
 		
-			<atom:link href="https://contents.masato-nike.net/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/windows/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Google Chrome Remote Desktop Webのインストール</title>
-				<link>https://contents.masato-nike.net/posts/2020-05-07-chromeremotedesktop/</link>
+				<link>http://localhost:1313/posts/2020-05-07-chromeremotedesktop/</link>
 				<pubDate>Thu, 07 May 2020 08:35:59 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/posts/2020-05-07-chromeremotedesktop/</guid>
+				<guid>http://localhost:1313/posts/2020-05-07-chromeremotedesktop/</guid>
 				<description>&lt;p&gt;新型コロナウイルスの影響で、自宅から会社や友人宅のパソコンを操作したいなという機会が増えたので、Google Chromeの拡張機能であるリモートデスクトップのインストール方法を覚書代わりに書いておきます。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Windows10 で自動ログインさせる方法</title>
-				<link>https://contents.masato-nike.net/posts/2020-05-06-windows10-auto-login/</link>
+				<link>http://localhost:1313/posts/2020-05-06-windows10-auto-login/</link>
 				<pubDate>Wed, 06 May 2020 17:30:01 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/posts/2020-05-06-windows10-auto-login/</guid>
+				<guid>http://localhost:1313/posts/2020-05-06-windows10-auto-login/</guid>
 				<description>&lt;p&gt;Windows10で自動ログインさせるためのコマンドを備忘録替わりに書いておきます。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;netplwiz&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
 			</item>
 	</channel>

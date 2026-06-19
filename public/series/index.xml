@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Series on ないきまさとの部屋</title>
-		<link>https://contents.masato-nike.net/series/</link>
+		<link>http://localhost:1313/series/</link>
 		<description>Recent content in Series on ないきまさとの部屋</description>
 		<generator>Hugo</generator>
 		<language>ja</language>
@@ -14,6 +14,6 @@
 		
 		
 		
-			<atom:link href="https://contents.masato-nike.net/series/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

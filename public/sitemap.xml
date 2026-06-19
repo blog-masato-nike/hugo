@@ -2,167 +2,167 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://contents.masato-nike.net/author/</loc>
+    <loc>http://localhost:1313/author/</loc>
     <lastmod>2026-06-19T21:34:32+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/highlight/</loc>
+    <loc>http://localhost:1313/tags/highlight/</loc>
     <lastmod>2026-06-19T16:53:36+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2026-06-19T16:53:36+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/author/masato-nike/</loc>
+    <loc>http://localhost:1313/author/masato-nike/</loc>
     <lastmod>2026-06-19T21:34:32+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-06-19T21:34:32+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/syntax/</loc>
+    <loc>http://localhost:1313/tags/syntax/</loc>
     <lastmod>2026-06-19T16:53:36+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/syntaxhighlight/</loc>
+    <loc>http://localhost:1313/tags/syntaxhighlight/</loc>
     <lastmod>2026-06-19T16:53:36+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-06-19T21:34:32+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-06-19T21:34:32+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2023-03-28-rebuild-hugo-3/</loc>
+    <loc>http://localhost:1313/posts/2023-03-28-rebuild-hugo-3/</loc>
     <lastmod>2026-06-19T16:53:36+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2023-03-28-rebuild-hugo-2/</loc>
+    <loc>http://localhost:1313/posts/2023-03-28-rebuild-hugo-2/</loc>
     <lastmod>2026-06-19T16:53:28+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2023-03-28-rebuild-hugo-1/</loc>
+    <loc>http://localhost:1313/posts/2023-03-28-rebuild-hugo-1/</loc>
     <lastmod>2026-06-19T16:53:16+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/hello-world/</loc>
+    <loc>http://localhost:1313/tags/hello-world/</loc>
     <lastmod>2022-12-08T23:53:46+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/octopress/</loc>
+    <loc>http://localhost:1313/tags/octopress/</loc>
     <lastmod>2022-12-08T23:53:46+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2022-12-08-long-time-no-see/</loc>
+    <loc>http://localhost:1313/posts/2022-12-08-long-time-no-see/</loc>
     <lastmod>2022-12-08T23:53:46+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/build-server/</loc>
+    <loc>http://localhost:1313/tags/build-server/</loc>
     <lastmod>2026-06-19T21:34:32+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/linux/</loc>
+    <loc>http://localhost:1313/tags/linux/</loc>
     <lastmod>2026-06-19T21:34:32+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/ssl/</loc>
+    <loc>http://localhost:1313/tags/ssl/</loc>
     <lastmod>2026-06-19T21:34:32+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/webmeeting/</loc>
+    <loc>http://localhost:1313/tags/webmeeting/</loc>
     <lastmod>2026-06-19T21:34:32+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2020-05-09-jitsimeet-on-centos-3/</loc>
+    <loc>http://localhost:1313/posts/2020-05-09-jitsimeet-on-centos-3/</loc>
     <lastmod>2026-06-19T21:32:15+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2020-05-09-jitsimeet-on-centos-2/</loc>
+    <loc>http://localhost:1313/posts/2020-05-09-jitsimeet-on-centos-2/</loc>
     <lastmod>2026-06-19T21:33:44+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2020-05-09-jitsimeet-on-centos-1/</loc>
+    <loc>http://localhost:1313/posts/2020-05-09-jitsimeet-on-centos-1/</loc>
     <lastmod>2026-06-19T21:33:10+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2020-05-09-jitsimeet-on-centos-intoroduction/</loc>
+    <loc>http://localhost:1313/posts/2020-05-09-jitsimeet-on-centos-intoroduction/</loc>
     <lastmod>2026-06-19T21:34:32+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/covid-19/</loc>
+    <loc>http://localhost:1313/tags/covid-19/</loc>
     <lastmod>2026-06-19T21:34:32+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2020-05-07-chromeremotedesktop/</loc>
+    <loc>http://localhost:1313/posts/2020-05-07-chromeremotedesktop/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/remote/</loc>
+    <loc>http://localhost:1313/tags/remote/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/windows/</loc>
+    <loc>http://localhost:1313/tags/windows/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/command/</loc>
+    <loc>http://localhost:1313/tags/command/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2020-05-06-windows10-auto-login/</loc>
+    <loc>http://localhost:1313/posts/2020-05-06-windows10-auto-login/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/android/</loc>
+    <loc>http://localhost:1313/tags/android/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/iphone/</loc>
+    <loc>http://localhost:1313/tags/iphone/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/smartphoneappli/</loc>
+    <loc>http://localhost:1313/tags/smartphoneappli/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2020-05-01-web-meeting-4/</loc>
+    <loc>http://localhost:1313/posts/2020-05-01-web-meeting-4/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2020-05-01-web-meeting-3/</loc>
+    <loc>http://localhost:1313/posts/2020-05-01-web-meeting-3/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2020-05-01-web-meeting-2/</loc>
+    <loc>http://localhost:1313/posts/2020-05-01-web-meeting-2/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2020-05-01-web-meeting-1/</loc>
+    <loc>http://localhost:1313/posts/2020-05-01-web-meeting-1/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2020-05-01-web-meeting-introduction/</loc>
+    <loc>http://localhost:1313/posts/2020-05-01-web-meeting-introduction/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2020-05-01-hello/</loc>
+    <loc>http://localhost:1313/posts/2020-05-01-hello/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/instagram/</loc>
+    <loc>http://localhost:1313/tags/instagram/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2017-10-29-instagram-pc/</loc>
+    <loc>http://localhost:1313/posts/2017-10-29-instagram-pc/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/sns/</loc>
+    <loc>http://localhost:1313/tags/sns/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/facebook/</loc>
+    <loc>http://localhost:1313/tags/facebook/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2017-10-11-facebookfeed/</loc>
+    <loc>http://localhost:1313/posts/2017-10-11-facebookfeed/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/makeuphomepage/</loc>
+    <loc>http://localhost:1313/tags/makeuphomepage/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2017-10-07-fyuse/</loc>
+    <loc>http://localhost:1313/posts/2017-10-07-fyuse/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2017-10-07-hello/</loc>
+    <loc>http://localhost:1313/posts/2017-10-07-hello/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/centos/</loc>
+    <loc>http://localhost:1313/tags/centos/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2016-06-21-buildserverdns/</loc>
+    <loc>http://localhost:1313/posts/2016-06-21-buildserverdns/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/tags/markdown/</loc>
+    <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2016-06-16-octopress/</loc>
+    <loc>http://localhost:1313/posts/2016-06-16-octopress/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2016-06-15-buildserver/</loc>
+    <loc>http://localhost:1313/posts/2016-06-15-buildserver/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2016-06-15-octopress/</loc>
+    <loc>http://localhost:1313/posts/2016-06-15-octopress/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/posts/2016-06-12-hello/</loc>
+    <loc>http://localhost:1313/posts/2016-06-12-hello/</loc>
     <lastmod>2022-12-08T21:24:26+09:00</lastmod>
   </url><url>
-    <loc>https://contents.masato-nike.net/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://contents.masato-nike.net/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>

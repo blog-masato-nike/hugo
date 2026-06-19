@@ -1,0 +1,48 @@
+/*全体の設定
+---------------------------------------------------------------------------*/
+body {
+	margin: 0px;
+	padding: 0px;
+	color: #777;	/*全体の文字色*/
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;	/*フォント種類*/
+	font-size: 16px;	/*文字サイズ*/
+	line-height: 2;		/*行間*/
+	background: #fff url(../images/bg1.jpg);	/*背景色、背景画像の読み込み*/
+	-webkit-text-size-adjust: none;
+}
+h1,h2,h3,h4,h5,p,ul,ol,li,dl,dt,dd,form,figure,form,input,textarea {margin: 0px;padding: 0px;font-size: 100%;font-weight: normal;}
+ul {list-style-type: none;}
+img {border: none;max-width: 100%;height: auto;vertical-align: middle;}
+table {border-collapse:collapse;font-size: 100%;border-spacing: 0;}
+iframe {width: 100%;}
+
+/*container。サイト全体を囲むブロック
+---------------------------------------------------------------------------*/
+#container {
+	overflow: hidden;
+	max-width: 1200px;		/*最大幅の制限。これ以上広がらない。*/
+	margin: 30px auto 0;
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.2);	/*ボックスの影。右へ、下へ、ぼかし幅。0,0,0は黒の事で0.2は色が20%ついた状態の事。*/
+	border-radius: 30px;	/*角丸のサイズ*/
+	padding: 40px;		/*ボックス内の余白*/
+	background: #fff;	/*背景色*/
+}
+
+/*headerブロック
+---------------------------------------------------------------------------*/
+/*headerブロック*/
+.bilberry-hugo-theme header .container {
+	width: 100%!important;
+}
+/*header内のロゴ*/
+header #logo {
+	position: absolute;z-index: 1;
+	left: 5%;	/*headerの左から5%の場所に配置*/
+	/* top: 18%;	headerの上から18%の場所に配置*/
+	top: 30%;	/*headerの上から30%の場所に配置（カスタマイズ）*/
+	width: 40%;	/*画像の幅*/
+	background: #b7b794;	/*背景色（古いブラウザ用）*/
+	background: rgba(183,183,148,0.0);	/*画像の背景色。0,0,0は黒の事で0.5は50%色がついた状態。*/
+}
+
+/* header{background: url("/images/main_pic.jpg");} */

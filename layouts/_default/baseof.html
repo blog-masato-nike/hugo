@@ -58,20 +58,23 @@
     <link rel=”canonical” href=”{{ . }}” />
     {{ end }}
 
-    <link rel="stylesheet" href="{{ "theme.css" | absURL }}">
 
     {{ partial "twitter-card" . }}
 
     {{ if isset .Site.Params "css_modules" }}
     {{ range .Site.Params.css_modules }}
     <!-- link rel="stylesheet" href="{{ . | absURL }}" -->
-    <link rel="stylesheet" href="{{ . }}">
+    <link rel="stylesheet" href="{{ . | absURL }}">
     {{ end }}
     {{ end }}
 
     {{ range .Site.Params.customCSS }}
     <link rel="stylesheet" href="{{ . | absURL}}">
     {{ end }}
+
+
+    <link rel="stylesheet" href="{{ "theme.css" | absURL }}">
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FLVBZ0FSQH"></script>
 <script>
@@ -85,9 +88,10 @@
 </head>
 
 <body class="bilberry-hugo-theme">
-
+  <div id="container">
+<!--
     {{ partial "topnav" . }}
-
+-->
     {{ partial "header" . }}
 
     <div class="main container">
@@ -115,7 +119,7 @@
     {{ partial "algolia-search" . }}
     {{ end }}
 
-
+  </div>
 </body>
 
 </html>

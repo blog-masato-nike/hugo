@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on ないきまさとの部屋</title>
-		<link>https://contents.masato-nike.net/tags/</link>
+		<link>http://localhost:1313/tags/</link>
 		<description>Recent content in Tags on ないきまさとの部屋</description>
 		<generator>Hugo</generator>
 		<language>ja</language>
@@ -16,166 +16,166 @@
 		
 			<lastBuildDate>Fri, 19 Jun 2026 21:34:32 +0900</lastBuildDate>
 		
-			<atom:link href="https://contents.masato-nike.net/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Highlight</title>
-				<link>https://contents.masato-nike.net/tags/highlight/</link>
+				<link>http://localhost:1313/tags/highlight/</link>
 				<pubDate>Tue, 28 Mar 2023 11:18:00 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/highlight/</guid>
+				<guid>http://localhost:1313/tags/highlight/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Hugo</title>
-				<link>https://contents.masato-nike.net/tags/hugo/</link>
+				<link>http://localhost:1313/tags/hugo/</link>
 				<pubDate>Tue, 28 Mar 2023 11:18:00 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/hugo/</guid>
+				<guid>http://localhost:1313/tags/hugo/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Syntax</title>
-				<link>https://contents.masato-nike.net/tags/syntax/</link>
+				<link>http://localhost:1313/tags/syntax/</link>
 				<pubDate>Tue, 28 Mar 2023 11:18:00 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/syntax/</guid>
+				<guid>http://localhost:1313/tags/syntax/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SyntaxHighlight</title>
-				<link>https://contents.masato-nike.net/tags/syntaxhighlight/</link>
+				<link>http://localhost:1313/tags/syntaxhighlight/</link>
 				<pubDate>Tue, 28 Mar 2023 11:18:00 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/syntaxhighlight/</guid>
+				<guid>http://localhost:1313/tags/syntaxhighlight/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Hello World</title>
-				<link>https://contents.masato-nike.net/tags/hello-world/</link>
+				<link>http://localhost:1313/tags/hello-world/</link>
 				<pubDate>Thu, 08 Dec 2022 21:28:00 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/hello-world/</guid>
+				<guid>http://localhost:1313/tags/hello-world/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Octopress</title>
-				<link>https://contents.masato-nike.net/tags/octopress/</link>
+				<link>http://localhost:1313/tags/octopress/</link>
 				<pubDate>Thu, 08 Dec 2022 21:28:00 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/octopress/</guid>
+				<guid>http://localhost:1313/tags/octopress/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Build Server</title>
-				<link>https://contents.masato-nike.net/tags/build-server/</link>
+				<link>http://localhost:1313/tags/build-server/</link>
 				<pubDate>Sat, 09 May 2020 17:50:32 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/build-server/</guid>
+				<guid>http://localhost:1313/tags/build-server/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Linux</title>
-				<link>https://contents.masato-nike.net/tags/linux/</link>
+				<link>http://localhost:1313/tags/linux/</link>
 				<pubDate>Sat, 09 May 2020 17:50:32 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/linux/</guid>
+				<guid>http://localhost:1313/tags/linux/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SSL</title>
-				<link>https://contents.masato-nike.net/tags/ssl/</link>
+				<link>http://localhost:1313/tags/ssl/</link>
 				<pubDate>Sat, 09 May 2020 17:50:32 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/ssl/</guid>
+				<guid>http://localhost:1313/tags/ssl/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>WebMeeting</title>
-				<link>https://contents.masato-nike.net/tags/webmeeting/</link>
+				<link>http://localhost:1313/tags/webmeeting/</link>
 				<pubDate>Sat, 09 May 2020 17:50:32 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/webmeeting/</guid>
+				<guid>http://localhost:1313/tags/webmeeting/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>COVID-19</title>
-				<link>https://contents.masato-nike.net/tags/covid-19/</link>
+				<link>http://localhost:1313/tags/covid-19/</link>
 				<pubDate>Sat, 09 May 2020 12:08:20 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/covid-19/</guid>
+				<guid>http://localhost:1313/tags/covid-19/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Remote</title>
-				<link>https://contents.masato-nike.net/tags/remote/</link>
+				<link>http://localhost:1313/tags/remote/</link>
 				<pubDate>Thu, 07 May 2020 08:35:59 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/remote/</guid>
+				<guid>http://localhost:1313/tags/remote/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Windows</title>
-				<link>https://contents.masato-nike.net/tags/windows/</link>
+				<link>http://localhost:1313/tags/windows/</link>
 				<pubDate>Thu, 07 May 2020 08:35:59 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/windows/</guid>
+				<guid>http://localhost:1313/tags/windows/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Command</title>
-				<link>https://contents.masato-nike.net/tags/command/</link>
+				<link>http://localhost:1313/tags/command/</link>
 				<pubDate>Wed, 06 May 2020 17:30:01 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/command/</guid>
+				<guid>http://localhost:1313/tags/command/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Android</title>
-				<link>https://contents.masato-nike.net/tags/android/</link>
+				<link>http://localhost:1313/tags/android/</link>
 				<pubDate>Fri, 01 May 2020 19:11:24 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/android/</guid>
+				<guid>http://localhost:1313/tags/android/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>IPhone</title>
-				<link>https://contents.masato-nike.net/tags/iphone/</link>
+				<link>http://localhost:1313/tags/iphone/</link>
 				<pubDate>Fri, 01 May 2020 19:11:24 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/iphone/</guid>
+				<guid>http://localhost:1313/tags/iphone/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SmartPhoneAppli</title>
-				<link>https://contents.masato-nike.net/tags/smartphoneappli/</link>
+				<link>http://localhost:1313/tags/smartphoneappli/</link>
 				<pubDate>Fri, 01 May 2020 19:11:24 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/smartphoneappli/</guid>
+				<guid>http://localhost:1313/tags/smartphoneappli/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Instagram</title>
-				<link>https://contents.masato-nike.net/tags/instagram/</link>
+				<link>http://localhost:1313/tags/instagram/</link>
 				<pubDate>Sun, 29 Oct 2017 16:25:20 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/instagram/</guid>
+				<guid>http://localhost:1313/tags/instagram/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SNS</title>
-				<link>https://contents.masato-nike.net/tags/sns/</link>
+				<link>http://localhost:1313/tags/sns/</link>
 				<pubDate>Sun, 29 Oct 2017 16:25:20 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/sns/</guid>
+				<guid>http://localhost:1313/tags/sns/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Facebook</title>
-				<link>https://contents.masato-nike.net/tags/facebook/</link>
+				<link>http://localhost:1313/tags/facebook/</link>
 				<pubDate>Wed, 11 Oct 2017 06:35:53 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/facebook/</guid>
+				<guid>http://localhost:1313/tags/facebook/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MakeupHomePage</title>
-				<link>https://contents.masato-nike.net/tags/makeuphomepage/</link>
+				<link>http://localhost:1313/tags/makeuphomepage/</link>
 				<pubDate>Wed, 11 Oct 2017 06:35:53 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/makeuphomepage/</guid>
+				<guid>http://localhost:1313/tags/makeuphomepage/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>CentOS</title>
-				<link>https://contents.masato-nike.net/tags/centos/</link>
+				<link>http://localhost:1313/tags/centos/</link>
 				<pubDate>Tue, 21 Jun 2016 05:38:10 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/centos/</guid>
+				<guid>http://localhost:1313/tags/centos/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Markdown</title>
-				<link>https://contents.masato-nike.net/tags/markdown/</link>
+				<link>http://localhost:1313/tags/markdown/</link>
 				<pubDate>Thu, 16 Jun 2016 10:52:50 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/tags/markdown/</guid>
+				<guid>http://localhost:1313/tags/markdown/</guid>
 				<description></description>
 			</item>
 	</channel>
