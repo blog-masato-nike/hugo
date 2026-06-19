@@ -74,6 +74,6 @@ layouts\\shortcodes\\rawhtml.html
 |項目|値|備考|
 |:--|:--:|:--|
 |title|"Link"||
-|href|"https://blog.masato-nike.net/"||
+|href|"/"||
 
 [Languages]はすべてコメントアウトしました。

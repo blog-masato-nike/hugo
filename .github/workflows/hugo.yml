@@ -106,6 +106,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v5
-caches:
-  images:
-    dir: :cacheDir/images
+
