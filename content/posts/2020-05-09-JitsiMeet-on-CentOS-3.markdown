@@ -7,9 +7,9 @@ tags: ['Build Server', 'Linux', 'SSL', 'WebMeeting']
 ---
 本稿の前提条件として、以下が実施させているものとします。
 
-[第1回 Linux（CentOS）サーバの構築](http://blog.masato-nike.net/post/2020-05-09-jitsimeet-on-centos-1/ "第1回 Linux（CentOS）サーバの構築")<br />
+[第1回 Linux（CentOS）サーバの構築](/posts/2020-05-09-jitsimeet-on-centos-1/ "第1回 Linux（CentOS）サーバの構築")<br />
 
-[第2回 Linux（CentOS）へのJitsi Meetのインストール](http://blog.masato-nike.net/post/2020-05-09-jitsimeet-on-centos-2/ "第2回 Linux（CentOS）へのJitsi Meetのインストール")<br />
+[第2回 Linux（CentOS）へのJitsi Meetのインストール](/posts/2020-05-09-jitsimeet-on-centos-2/ "第2回 Linux（CentOS）へのJitsi Meetのインストール")<br />
 
 Web会議システム『Jitsi Meet』を動作させるためには、SSLサーバ証明書が必要です。<br />
 インターネット内のサーバであれば、『[Let's Encrypt](https://letsencrypt.org/ja/ "Let's Encrypt")』といった無料のSSLサーバ証明書が使えるのですが、今回はイントラネット内で利用するということが前提ですので、『Let's Encrypt』は使えません。<br />
@@ -38,7 +38,7 @@ more server.crt
 (4) server.crtの中身をコピーし、ローカルパソコン内に保存してください（ファイル名：server.crt）。<br />
 <br />
 ※オレオレサーバ証明書のクライアント（Google Chrome）へのインストール方法についてはUbuntuの時に書いた以下を参照ください。<br />
-[第3回 オレオレサーバ証明書の発行～クライアントへの証明書のインストール](http://blog.masato-nike.net/post/2020-05-01-web-meeting-3/ "第3回 オレオレサーバ証明書の発行～クライアントへの証明書のインストール")<br />
+[第3回 オレオレサーバ証明書の発行～クライアントへの証明書のインストール](/posts/2020-05-01-web-meeting-3/ "第3回 オレオレサーバ証明書の発行～クライアントへの証明書のインストール")<br />
 <br />
 (5) 以下のコマンドを入力してください。
 ``` bash

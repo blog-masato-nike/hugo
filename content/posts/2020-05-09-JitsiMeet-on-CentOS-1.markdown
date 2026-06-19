@@ -17,7 +17,7 @@ tags: ['Build Server', 'Linux', 'WebMeeting']
 ## 1. VirtualBoxのインストール
 以下を参照してください。<br />
 <br />
-[第1回 Linux（Ubuntu）サーバの構築](http://blog.masato-nike.net/post/2020-05-01-web-meeting-1/ "第1回 Linux（Ubuntu）サーバの構築")<br />
+[第1回 Linux（Ubuntu）サーバの構築](/posts/2020-05-01-web-meeting-1/ "第1回 Linux（Ubuntu）サーバの構築")<br />
 <br />
 ## 2. BIOSの変更
 (1) BIOSにて仮想化機能を有効にする必要があるため、パソコンを再起動させてください。<br /><br />

@@ -8,7 +8,7 @@ tags: ['Build Server', 'Linux', 'WebMeeting']
 Linux(CentOS)にWeb会議システム『Jitsi Meet』をインストールします。<br />
 前提として、以下を実施しているものとします。<br />
 <br />
-[第1回 Linux（CentOS）サーバの構築](http://blog.masato-nike.net/post/2020-05-09-jitsimeet-on-centos-1/ "第1回 Linux（CentOS）サーバの構築")<br />
+[第1回 Linux（CentOS）サーバの構築](/posts/2020-05-09-jitsimeet-on-centos-1/ "第1回 Linux（CentOS）サーバの構築")<br />
 <!--more-->
 ## 1. SSHの設定
 (1) rootでログインし、以下のコマンドを入力してください。<br />
@@ -107,4 +107,4 @@ docker-compose down
 httpsでアクセスするため、SSLサーバ証明書の設定が必要になります。<br />
 SSLサーバ証明書の設定は以下に続きます。<br />
 <br />
-[第3回 オレオレサーバ証明書の発行～Jitsi Meetの設定](http://blog.masato-nike.net/post/2020-05-09-jitsimeet-on-centos-3/ "第3回 オレオレサーバ証明書の発行～Jitsi Meetの設定")<br />
+[第3回 オレオレサーバ証明書の発行～Jitsi Meetの設定](/posts/2020-05-09-jitsimeet-on-centos-3/ "第3回 オレオレサーバ証明書の発行～Jitsi Meetの設定")<br />

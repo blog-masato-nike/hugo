@@ -176,7 +176,7 @@ email = "masato_nike@masato-nike.net"
 
   [[params.links]]
     title = "Link"
-    href = "https://contents.masato-nike.net/"
+    href = ""
 
 
 # customize your available languages for your multi-lingual site
