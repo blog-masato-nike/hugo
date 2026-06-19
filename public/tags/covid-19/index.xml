@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>COVID-19 on ないきまさとの部屋</title>
-		<link>http://localhost:1313/tags/covid-19/</link>
+		<link>https://contents.masato-nike.net/tags/covid-19/</link>
 		<description>Recent content in COVID-19 on ないきまさとの部屋</description>
 		<generator>Hugo</generator>
 		<language>ja</language>
@@ -16,19 +16,19 @@
 		
 			<lastBuildDate>Fri, 19 Jun 2026 21:34:32 +0900</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://contents.masato-nike.net/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>CentOSへのJitsi Meetのインストール（序章 コロナに負けるな！）</title>
-				<link>http://localhost:1313/posts/2020-05-09-jitsimeet-on-centos-intoroduction/</link>
+				<link>https://contents.masato-nike.net/posts/2020-05-09-jitsimeet-on-centos-intoroduction/</link>
 				<pubDate>Sat, 09 May 2020 12:08:20 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>http://localhost:1313/posts/2020-05-09-jitsimeet-on-centos-intoroduction/</guid>
+				<guid>https://contents.masato-nike.net/posts/2020-05-09-jitsimeet-on-centos-intoroduction/</guid>
 				<description>&lt;p&gt;UbuntuへのオープンソースのWeb会議システム『Jitsi Meet』のインストールを紹介してきましたが、CentOSでできないものかと調べてみたので書いておく。&lt;!-- raw HTML omitted --&gt;&#xA;CentOSへの『Jitsi Meet』の対応はRPMが2017年2月7日以降更新されていない状況です(2020年5月9日現在)。&lt;!-- raw HTML omitted --&gt;&#xA;なので、セキュリティとかバグとかもろもろの観点から、CentOSへの『Jitsi Meet』のインストールはあまりお勧めできません&lt;!-- raw HTML omitted --&gt;&#xA;それでも、もろもろの事情でCentOSを利用しなきゃならないこともあると思うので、3回に分けて記述していきたいと思います。&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Web会議システム構築（序章 コロナに負けるな！）</title>
-				<link>http://localhost:1313/posts/2020-05-01-web-meeting-introduction/</link>
+				<link>https://contents.masato-nike.net/posts/2020-05-01-web-meeting-introduction/</link>
 				<pubDate>Fri, 01 May 2020 15:50:57 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>http://localhost:1313/posts/2020-05-01-web-meeting-introduction/</guid>
+				<guid>https://contents.masato-nike.net/posts/2020-05-01-web-meeting-introduction/</guid>
 				<description>&lt;p&gt;新型コロナウイルスの感染が拡大し、緊急事態宣言が出される中、Web会議の需要が出てきていると思います。&lt;!-- raw HTML omitted --&gt;&#xA;インターネットを介したWeb会議では『Zoom』が主流になってきているのでしょうか、よく耳にします。&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;今回は「イントラネットの中だけで完結させたい」という要望があったので、そうした際のWeb会議システムの構築について、3回に分けて記述していきたいと思います。&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Octopress on ないきまさとの部屋</title>
-		<link>http://localhost:1313/tags/octopress/</link>
+		<link>https://contents.masato-nike.net/tags/octopress/</link>
 		<description>Recent content in Octopress on ないきまさとの部屋</description>
 		<generator>Hugo</generator>
 		<language>ja</language>
@@ -16,40 +16,40 @@
 		
 			<lastBuildDate>Thu, 08 Dec 2022 23:53:46 +0900</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/octopress/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://contents.masato-nike.net/tags/octopress/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>久しぶりの更新</title>
-				<link>http://localhost:1313/posts/2022-12-08-long-time-no-see/</link>
+				<link>https://contents.masato-nike.net/posts/2022-12-08-long-time-no-see/</link>
 				<pubDate>Thu, 08 Dec 2022 21:28:00 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>http://localhost:1313/posts/2022-12-08-long-time-no-see/</guid>
+				<guid>https://contents.masato-nike.net/posts/2022-12-08-long-time-no-see/</guid>
 				<description>&lt;p&gt;久しぶりの更新です。&lt;!-- raw HTML omitted --&gt;&#xA;かれこれ2年ぐらい放置していたみたい。&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;なぜ放置してたかというと、&#xA;メインパソコンをWindows11の高速パソコンに買い替えた際に、&#xA;Octopressの環境を入れていなかったため、&#xA;環境を構築するの『めんどくさいなぁ』と手つかずでした（汗）&lt;!-- raw HTML omitted --&gt;&#xA;ということで、正直、Octopressの使い方も忘れてしまった（笑）&lt;!-- raw HTML omitted --&gt;&#xA;ということで、正常に投稿できるかわからない（涙）&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;さすがに2年間も放置していると、記事を投稿するのに必要なソフトもいろいろ違ってくるようです。&lt;!-- raw HTML omitted --&gt;&#xA;そこで今回は新たにOctopress環境を構築する際に行ったことを書いていきたいと思います。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>久しぶりです!Octopress</title>
-				<link>http://localhost:1313/posts/2017-10-07-hello/</link>
+				<link>https://contents.masato-nike.net/posts/2017-10-07-hello/</link>
 				<pubDate>Sat, 07 Oct 2017 08:23:00 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>http://localhost:1313/posts/2017-10-07-hello/</guid>
+				<guid>https://contents.masato-nike.net/posts/2017-10-07-hello/</guid>
 				<description>&lt;p&gt;久しぶりです!Octopress&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Octopressで表を挿入する</title>
-				<link>http://localhost:1313/posts/2016-06-16-octopress/</link>
+				<link>https://contents.masato-nike.net/posts/2016-06-16-octopress/</link>
 				<pubDate>Thu, 16 Jun 2016 10:52:50 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>http://localhost:1313/posts/2016-06-16-octopress/</guid>
+				<guid>https://contents.masato-nike.net/posts/2016-06-16-octopress/</guid>
 				<description>&lt;p&gt;昨日の投稿で表を入れようとして、少しはまったので、メモ代わりに書いておきます。&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-表の作り方&#34;&gt;1. 表の作り方&lt;/h2&gt;&#xA;&lt;p&gt;Markdownでの表の作り方は簡単で、以下のようにすれば、それぞれ左寄せ、中央寄せ、右寄せになります。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
 			</item>
 			<item>
 				<title>Octopressを導入してみた</title>
-				<link>http://localhost:1313/posts/2016-06-15-octopress/</link>
+				<link>https://contents.masato-nike.net/posts/2016-06-15-octopress/</link>
 				<pubDate>Wed, 15 Jun 2016 06:00:44 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>http://localhost:1313/posts/2016-06-15-octopress/</guid>
+				<guid>https://contents.masato-nike.net/posts/2016-06-15-octopress/</guid>
 				<description>&lt;p&gt;以下のサイトを参考にさせてもらい、Octopressを導入してみた。&lt;!-- raw HTML omitted --&gt;&#xA;&lt;a href=&#34;http://blog.shiroyama.us/blog/2014/02/26/octopress/&#34; title=&#34;エンジニアのブログは Octopress が最適 - do blog&#34;&gt;エンジニアのブログは Octopress が最適 - do blog&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Hello!Octopress</title>
-				<link>http://localhost:1313/posts/2016-06-12-hello/</link>
+				<link>https://contents.masato-nike.net/posts/2016-06-12-hello/</link>
 				<pubDate>Sun, 12 Jun 2016 06:34:46 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>http://localhost:1313/posts/2016-06-12-hello/</guid>
+				<guid>https://contents.masato-nike.net/posts/2016-06-12-hello/</guid>
 				<description>&lt;p&gt;Hello!Octopress&lt;/p&gt;</description>
 			</item>
 	</channel>
