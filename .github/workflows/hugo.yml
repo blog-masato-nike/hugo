@@ -23,8 +23,9 @@ concurrency:
 # Default to bash
 defaults:
   run:
+    using: 'node24'
+    main: 'main.js'
     shell: bash
-
 jobs:
   # Build job
   build:
