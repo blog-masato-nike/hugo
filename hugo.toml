@@ -154,8 +154,7 @@ email = "masato_nike@masato-nike.net"
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "https://x.com/rt_masato_nike", icon = "fab fa-twitter"}#,
-#      { link = "https://www.instagram.com/z_masato_nike/", icon = "fab fa-instagram" },
+      { link = "https://x.com/rt_masato_nike", icon = "fab fa-twitter"}
     ]
 
     # credits line configuration
@@ -176,7 +175,7 @@ email = "masato_nike@masato-nike.net"
 
   [[params.links]]
     title = "Link"
-    href = ""
+    href = "/static/"
 
 
 # customize your available languages for your multi-lingual site
