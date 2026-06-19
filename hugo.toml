@@ -172,7 +172,7 @@ email = "masato_nike@masato-nike.net"
 ###  rss = true
   lastmod = true
 ###  location = "Japan"
-  customCSS = ["/css/custom.css", "/css/syntax.css"]
+  customCSS = ["/static/css/custom.css", "/static/css/syntax.css"]
 
   [[params.links]]
     title = "Link"
