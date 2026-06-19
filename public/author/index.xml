@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Author on ないきまさとの部屋</title>
+		<link>https://contents.masato-nike.net/author/</link>
+		<description>Recent content in Author on ないきまさとの部屋</description>
+		<generator>Hugo</generator>
+		<language>ja</language>
+		
+			<managingEditor>masato_nike@masato-nike.net (Masato Nike)</managingEditor>
+		
+		
+			<webMaster>masato_nike@masato-nike.net (Masato Nike)</webMaster>
+		
+		
+		
+			<lastBuildDate>Fri, 19 Jun 2026 16:53:36 +0900</lastBuildDate>
+		
+			<atom:link href="https://contents.masato-nike.net/author/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Masato Nike</title>
+				<link>https://contents.masato-nike.net/author/masato-nike/</link>
+				<pubDate>Tue, 28 Mar 2023 11:18:00 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
+				<guid>https://contents.masato-nike.net/author/masato-nike/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
