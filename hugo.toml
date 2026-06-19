@@ -154,14 +154,14 @@ email = "masato_nike@masato-nike.net"
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "https://twitter.com/masato_nike", icon = "fab fa-twitter"},
-      { link = "https://www.instagram.com/z_masato_nike/", icon = "fab fa-instagram" },
+      { link = "https://x.com/rt_masato_nike", icon = "fab fa-twitter"}#,
+#      { link = "https://www.instagram.com/z_masato_nike/", icon = "fab fa-instagram" },
     ]
 
     # credits line configuration
     copyrightBy = "by Masato Nike"
     copyrightUseCurrentYear = false  # set to true to always display the current year in the copyright
-    copyrightYearOverride = "2016-2026"
+    copyrightYearOverride = "2016"
     copyrightUrl = "https://www.masato-nike.net/"
     creditsText = "Bilberry Hugo Theme"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"

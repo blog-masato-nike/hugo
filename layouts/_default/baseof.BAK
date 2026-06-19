@@ -64,8 +64,7 @@
 
     {{ if isset .Site.Params "css_modules" }}
     {{ range .Site.Params.css_modules }}
-    <!-- link rel="stylesheet" href="{{ . | absURL }}" -->
-    <link rel="stylesheet" href="{{ . }}">
+    <link rel="stylesheet" href="{{ . | absURL }}">
     {{ end }}
     {{ end }}
 
