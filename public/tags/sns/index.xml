@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>SNS on ないきまさとの部屋</title>
-		<link>https://contents.masato-nike.net/tags/sns/</link>
+		<link>https://weblog.masato-nike.net/tags/sns/</link>
 		<description>Recent content in SNS on ないきまさとの部屋</description>
 		<generator>Hugo</generator>
 		<language>ja</language>
@@ -16,12 +16,12 @@
 		
 			<lastBuildDate>Thu, 08 Dec 2022 21:24:26 +0900</lastBuildDate>
 		
-			<atom:link href="https://contents.masato-nike.net/tags/sns/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://weblog.masato-nike.net/tags/sns/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Instagramにパソコンから画像をアップする方法（Firefox篇）</title>
-				<link>https://contents.masato-nike.net/posts/2017-10-29-instagram-pc/</link>
+				<link>https://weblog.masato-nike.net/posts/2017-10-29-instagram-pc/</link>
 				<pubDate>Sun, 29 Oct 2017 16:25:20 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/posts/2017-10-29-instagram-pc/</guid>
+				<guid>https://weblog.masato-nike.net/posts/2017-10-29-instagram-pc/</guid>
 				<description>&lt;p&gt;Instagramにパソコンから画像をアップしたいと思ったことはありませんか？&lt;!-- raw HTML omitted --&gt;&#xA;Instagramでは通常はパソコンかあらはアップできないのですが、ブラウザを偽装（？）することにより、パソコンから画像をアップすることができるようになります。&lt;/p&gt;</description>
 			</item>
 	</channel>

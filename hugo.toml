@@ -1,5 +1,5 @@
 title = "ないきまさとの部屋"
-baseURL = "https://contents.masato-nike.net/"
+baseURL = "https://weblog.masato-nike.net/"
 
 # Option 1 (recommended): adding the theme as a Hugo module
 ### theme = "github.com/Lednerb/bilberry-hugo-theme/v3"
