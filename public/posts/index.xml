@@ -144,13 +144,6 @@
 				<description>&lt;p&gt;FacebookのRSSを取得し、自分のホームページのTOPICSにしたいなぁと考えた次第です。&lt;!-- raw HTML omitted --&gt;&#xA;FacebookのRSSを取得するには、ページアクセストークンなるものが必要なのですが、通常の方法だと、有効期限が1時間以内のアクセストークンが取得できません。&lt;!-- raw HTML omitted --&gt;&#xA;それだといくらRSSを取得できても、ホームページのTOPICSに使用するには有効期限が短すぎます。&#xA;そこで、永久的なアクセストークンを取得できないかと、いろいろぐぐってみたわけです。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Fyuseというアプリ</title>
-				<link>https://contents.masato-nike.net/posts/2017-10-07-fyuse/</link>
-				<pubDate>Sat, 07 Oct 2017 15:31:13 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://contents.masato-nike.net/posts/2017-10-07-fyuse/</guid>
-				<description>&lt;p&gt;仕事で、ホームページ上で商品紹介をするにあたって、商品の全体画像が欲しくて、いい感じに撮影できないか、あれこれググっていたら、『Fyuse』なるアプリを発見した！&lt;!-- raw HTML omitted --&gt;&#xA;なにはともあれ、『Fyuse』で撮影した写真を、マウスを動かしながら見てほしい。&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;script&gt;&#xD;&#xA;&#xD;&#xA;FYU.add(&#34;3e9camgo2k&#34;, &#34;fyu_3e9camgo2k&#34;);&#xD;&#xA;&#xD;&#xA;&lt;/script&gt;</description>
-			</item>
-			<item>
 				<title>久しぶりです!Octopress</title>
 				<link>https://contents.masato-nike.net/posts/2017-10-07-hello/</link>
 				<pubDate>Sat, 07 Oct 2017 08:23:00 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
