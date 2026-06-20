@@ -27,6 +27,16 @@ iframe {width: 100%;}
 	padding: 40px;		/*ボックス内の余白*/
 	background: #fff;	/*背景色*/
 }
+.fab-x-twitter:before{
+    content: '';
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 640 640'%3E%3Cpath d='M453.2 112L523.8 112L369.6 288.2L551 528L409 528L297.7 382.6L170.5 528L99.8 528L264.7 339.5L90.8 112L236.4 112L336.9 244.9L453.2 112zM428.4 485.8L467.5 485.8L215.1 152L173.1 152L428.4 485.8z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
 
 /*headerブロック
 ---------------------------------------------------------------------------*/
@@ -45,4 +55,17 @@ header #logo {
 	background: rgba(183,183,148,0.0);	/*画像の背景色。0,0,0は黒の事で0.5は50%色がついた状態。*/
 }
 
-/* header{background: url("/images/main_pic.jpg");} */
+/*画面幅800px以下の設定
+------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+@media screen and (max-width:800px){
+.bilberry-hugo-theme header {
+	padding:0 0!important;
+	width: auto!important;
+	height: auto!important;
+	}
+
+.bilberry-hugo-theme header .container {
+	padding:0 0!important;
+	}
+}

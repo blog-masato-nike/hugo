@@ -154,7 +154,7 @@ email = "masato_nike@masato-nike.net"
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "https://x.com/rt_masato_nike", icon = "fab fa-twitter"}
+      { link = "https://x.com/rt_masato_nike", icon = "fab-x-twitter"}
     ]
 
     # credits line configuration
