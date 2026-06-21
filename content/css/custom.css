@@ -55,6 +55,33 @@ header #logo {
 	background: rgba(183,183,148,0.0);	/*画像の背景色。0,0,0は黒の事で0.5は50%色がついた状態。*/
 }
 
+/*PAGE TOP（↑）設定
+---------------------------------------------------------------------------*/
+@keyframes scroll {
+0% {opacity: 0;}
+100% {opacity: 1;}
+}
+/*通常時のボタンは非表示*/
+body .nav-fix-pos-pagetop a {
+	display: none;
+}
+/*fixmenu_pagetop.jsで設定している設定値になったら出現するボタンスタイル*/
+body.is-fixed-pagetop .nav-fix-pos-pagetop a {
+	display: block;text-decoration: none;text-align: center;z-index: 100;position: fixed;animation-name: scroll;animation-duration: 1s;animation-fill-mode: forwards;
+	width: 50px;		/*ボタンの幅*/
+	line-height: 50px;	/*ボタンの高さ*/
+	bottom: 20px;		/*ウィンドウの下から20pxの場所に配置*/
+	right: 1%;			/*ウィンドウの右から1%の場所に配置*/
+	color: #fff;		/*文字色*/
+	border-radius: 50%;	/*角丸指定。50%にすると円形になる。四角形がいいならこの１行削除。*/
+	background: #000;	/*背景色*/
+}
+/*マウスオン時の背景色*/
+body.is-fixed-pagetop .nav-fix-pos-pagetop a:hover {
+	background: #999;
+}
+
+
 /*画面幅800px以下の設定
 ------------------------------------------------------------------------------------------------------------------------------------------------------*/
 

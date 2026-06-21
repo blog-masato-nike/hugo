@@ -48,6 +48,8 @@
     {{- end }}
 
     {{ partial "favicon.html" . }}
+    <script type="text/javascript" src="{{ "js/fixmenu_pagetop.js" | relURL }}"></script>
+    <script type="text/javascript" src="{{ "js/openclose.js" | relURL }}"></script>
 
     {{ if .RelPermalink }}
     <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
@@ -109,6 +111,7 @@
 
     <script type="text/javascript" src="{{ "theme.js" | absURL }}"></script>
 
+
     {{ if isset .Site.Params "js_modules" }}
     {{ range .Site.Params.js_modules }}
     <script src="{{ . | absURL }}" type="application/javascript"></script>
@@ -120,6 +123,9 @@
     {{ end }}
 
   </div>
+
+<!--ページの上部に戻る「↑」ボタン-->
+<p class="nav-fix-pos-pagetop"><a href="#">↑</a></p>
 </body>
 
 </html>
