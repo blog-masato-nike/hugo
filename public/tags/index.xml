@@ -14,21 +14,28 @@
 		
 		
 		
-			<lastBuildDate>Sat, 20 Jun 2026 07:57:36 +0900</lastBuildDate>
+			<lastBuildDate>Mon, 22 Jun 2026 10:03:28 +0900</lastBuildDate>
 		
 			<atom:link href="https://weblog.masato-nike.net/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Highlight</title>
-				<link>https://weblog.masato-nike.net/tags/highlight/</link>
-				<pubDate>Tue, 28 Mar 2023 11:18:00 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
-				<guid>https://weblog.masato-nike.net/tags/highlight/</guid>
+				<title>Font Awesome</title>
+				<link>https://weblog.masato-nike.net/tags/font-awesome/</link>
+				<pubDate>Sun, 21 Jun 2026 16:26:00 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
+				<guid>https://weblog.masato-nike.net/tags/font-awesome/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Hugo</title>
 				<link>https://weblog.masato-nike.net/tags/hugo/</link>
-				<pubDate>Tue, 28 Mar 2023 11:18:00 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
+				<pubDate>Sun, 21 Jun 2026 16:26:00 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
 				<guid>https://weblog.masato-nike.net/tags/hugo/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Highlight</title>
+				<link>https://weblog.masato-nike.net/tags/highlight/</link>
+				<pubDate>Tue, 28 Mar 2023 11:18:00 +0900</pubDate><author>masato_nike@masato-nike.net (Masato Nike)</author>
+				<guid>https://weblog.masato-nike.net/tags/highlight/</guid>
 				<description></description>
 			</item>
 			<item>

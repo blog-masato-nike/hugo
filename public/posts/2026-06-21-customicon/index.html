@@ -1,0 +1,342 @@
+<!doctype html>
+<html class="no-js" lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="map[email:masato_nike@masato-nike.net name:Masato Nike]">
+    <meta name="description" content="ないきまさとの部屋のブログ">
+    <meta name="keywords" content="blog, ブログ, Octopress, Hugo, サーバ構築">
+    <meta name="generator" content="Hugo 0.163.3">
+    <title> Font Awesomeを使用したカスタムアイコン（X-Twitter） | ないきまさとの部屋</title>
+    <meta name="description" content="Font Awesomeを使用したカスタムアイコン（X-Twitter） - ないきまさとの部屋のブログ">
+    <meta itemprop="name" content="Font Awesomeを使用したカスタムアイコン（X-Twitter）">
+    <meta itemprop="description" content="Font Awesomeを使用したカスタムアイコン（X-Twitter） - ないきまさとの部屋のブログ">
+    <meta property="og:title" content="Font Awesomeを使用したカスタムアイコン（X-Twitter）">
+    <meta property="og:description" content="Font Awesomeを使用したカスタムアイコン（X-Twitter） - ないきまさとの部屋のブログ">
+    <meta property="og:image" content="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?size=200">
+    <meta property="og:url" content="https://weblog.masato-nike.net/posts/2026-06-21-customicon/">
+    <meta property="og:site_name" content="ないきまさとの部屋">
+    <meta property="og:type" content="article">
+
+    
+<link rel="icon" type="image/png" sizes="96x96" href="/ico/favicon-96x96.png">
+
+    <script type="text/javascript" src="/js/fixmenu_pagetop.js"></script>
+    <script type="text/javascript" src="/js/openclose.js"></script>
+
+    
+    <link href="/posts/2026-06-21-customicon/" rel="alternate" type="application/rss+xml" title="ないきまさとの部屋" />
+    <link href="/posts/2026-06-21-customicon/" rel="feed" type="application/rss+xml" title="ないきまさとの部屋" />
+    
+
+    
+
+
+    
+
+    
+    
+    
+
+    
+    <link rel="stylesheet" href="https://weblog.masato-nike.net/css/custom.css">
+    
+    <link rel="stylesheet" href="https://weblog.masato-nike.net/css/syntax.css">
+    
+    <link rel="stylesheet" href="https://weblog.masato-nike.net/css/slide.css">
+    
+
+
+    <link rel="stylesheet" href="https://weblog.masato-nike.net/theme.css">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FLVBZ0FSQH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FLVBZ0FSQH');
+</script>
+
+</head>
+
+<body class="bilberry-hugo-theme">
+  <div id="container">
+
+    
+<header>
+
+    <div class="container">
+<h1 id="logo"><a href="https://www.masato-nike.net/index.html"><img src="/images/logo_title.webp" alt="ないきまさとの部屋"></a></h1>
+
+<aside id="mainimg">
+<img src="/images/header_01_pc.webp" alt="" class="slide0">
+<img src="/images/header_02_yz.webp" alt="" class="slide1">
+<img src="/images/header_03_cake.webp" alt="" class="slide2">
+<img src="/images/header_04_live.webp" alt="" class="slide3">
+</aside>
+
+
+
+        
+</header>
+
+
+    <div class="main container">
+        
+    <div class="article-wrapper u-cf single">
+        
+            <a class="bubble" href="https://weblog.masato-nike.net/posts/2026-06-21-customicon/">
+    <i class="fas fa-fw fa-pencil-alt"></i>
+</a>
+
+<article class="default article">
+    
+
+    <div class="content">
+    <h1 class="article-title">
+        <a href="https://weblog.masato-nike.net/posts/2026-06-21-customicon/">
+            Font Awesomeを使用したカスタムアイコン（X-Twitter）
+        </a>
+    </h1>
+
+    <div class="meta">
+        
+            
+                <span class="date moment">2026-06-21</span>
+            
+        
+
+        
+
+        
+
+        
+            <span class="author">
+                
+                
+                    <a href="https://weblog.masato-nike.net/author/masato-nike/">Masato Nike</a>
+                
+            </span>
+        
+    </div>
+
+    
+        
+
+        <p>私が利用しているHugoのテンプレートにはあらかじめTwitterなどのアイコンがCSSに定義されていましたが、“X”のアイコンがCSSにはありませんでした。
+そこで、Font Awesomeのフリーアイコンを使用し、“X”のアイコンを表示する方法を記したいと思います。</p>
+<p>(1) Hugoに以下のようにCSSファイルを格納します。</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="o">(</span>Hugoホーム<span class="o">)</span>/contents/css/custom.css
+</span></span></code></pre></div><p>(2) <a href="https://fontawesome.com/" title="Font Awesome">Font Awesome</a>より、表示したいアイコンを探し、SVGの文字列をコピーしてください。</p>
+<p><img src="/images/blog/2026/06/21/FontAwesome.jpg" alt="Font Awesome"></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">&lt;svg <span class="nv">xmlns</span><span class="o">=</span><span class="s2">&#34;http://www.w3.org/2000/svg&#34;</span> <span class="nv">viewBox</span><span class="o">=</span><span class="s2">&#34;0 0 640 640&#34;</span>&gt;&lt;!--!Font Awesome Free v7.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright <span class="m">2026</span> Fonticons, Inc.--&gt;&lt;path <span class="nv">d</span><span class="o">=</span><span class="s2">&#34;M453.2 112L523.8 112L369.6 288.2L551 528L409 528L297.7 382.6L170.5 528L99.8 528L264.7 339.5L90.8 112L236.4 112L336.9 244.9L453.2 112zM428.4 485.8L467.5 485.8L215.1 152L173.1 152L428.4 485.8z&#34;</span>/&gt;&lt;/svg&gt;
+</span></span></code></pre></div><p>(3) <a href="https://yoksel.github.io/url-encoder/" title="URL-encoder for SVG">URL-encoder for SVG</a>というサイトで、CSS向けにSVGを変換してくれるので、(2)でコピーした文字列を貼り付け、貼り付けた文字列からコメントアウトされている箇所を削除し、URLエンコードしてください。</p>
+<p><img src="/images/blog/2026/06/21/URL-encoderforSVG.jpg" alt="URL-encoder for SVG"></p>
+<p>(4) (1)で作成したファイルに以下のように記述してください。（以下は“Twitter X”の例）</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">.fab-x-twitter:before<span class="o">{</span>
+</span></span><span class="line"><span class="cl">    content: <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    display: inline-block<span class="p">;</span>
+</span></span><span class="line"><span class="cl">    width: 1em<span class="p">;</span>
+</span></span><span class="line"><span class="cl">    height: 1em<span class="p">;</span>
+</span></span><span class="line"><span class="cl">    background-image: url<span class="o">(</span><span class="s2">&#34;data:image/svg+xml,%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; viewBox=&#39;0 0 640 640&#39;%3E%3Cpath d=&#39;M453.2 112L523.8 112L369.6 288.2L551 528L409 528L297.7 382.6L170.5 528L99.8 528L264.7 339.5L90.8 112L236.4 112L336.9 244.9L453.2 112zM428.4 485.8L467.5 485.8L215.1 152L173.1 152L428.4 485.8z&#39;/%3E%3C/svg%3E&#34;</span><span class="o">)</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    background-repeat: no-repeat<span class="p">;</span>
+</span></span><span class="line"><span class="cl">    background-size: contain<span class="p">;</span>
+</span></span><span class="line"><span class="cl">    background-position: center<span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="o">}</span>
+</span></span></code></pre></div><p>※先頭の『fab』は&quot;Font Awesome Brand&quot;を表しています。</p>
+<p>(5) あとは実際に利用するソースで、(4)で作成したクラスを読み込めばFont Awesomeで選んだ画像が表示されます。</p>
+    
+</div>
+
+    
+<div class="footer">
+
+
+    
+        <div class="tags">
+            <i class="fa fa-tags"></i>
+            <div class="links">
+                
+                    
+                    
+                    <a href="https://weblog.masato-nike.net/tags/hugo/">Hugo</a>
+                    
+                
+                    
+                    
+                    <a href="https://weblog.masato-nike.net/tags/font-awesome/">Font Awesome</a>
+                    
+                
+            </div>
+        </div>
+    
+
+    
+</div>
+
+</article>
+
+        
+    </div>
+
+    
+        <div id="comments-container">
+            <div id="disqus_thread"></div>
+<script>
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "bilberry-hugo-theme" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+		<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+	
+            
+
+            
+
+            
+
+        </div>
+    
+
+    </div>
+
+    
+<footer>
+    <div class="container">
+
+        
+        <div class="recent-posts">
+            <strong>最近の投稿</strong>
+            <ul>
+                
+                
+                    <li>
+                        <a href="https://weblog.masato-nike.net/posts/2026-06-21-customicon/">Font Awesomeを使用したカスタムアイコン（X-Twitter）</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://weblog.masato-nike.net/posts/2023-03-28-rebuild-hugo-3/">第3回 Hugo環境再構築 ～一番ハマったHugoのSyntaxHighlight～</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://weblog.masato-nike.net/posts/2023-03-28-rebuild-hugo-2/">第2回 Hugo環境再構築 ～既存ソース取得からHugo基本設定まで～</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://weblog.masato-nike.net/posts/2023-03-28-rebuild-hugo-1/">第1回 Hugo環境再構築 ～前提からデモサイト表示まで～</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://weblog.masato-nike.net/posts/2022-12-08-long-time-no-see/">久しぶりの更新</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://weblog.masato-nike.net/posts/2020-05-09-jitsimeet-on-centos-3/">Web会議システム構築（第3回 オレオレサーバ証明書の発行～Jitsi Meetの設定）</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://weblog.masato-nike.net/posts/2020-05-09-jitsimeet-on-centos-2/">Web会議システム構築（第2回 Linux（CentOS）へのJitsi Meetのインストール）</a>
+                    </li>
+                
+            </ul>
+        </div>
+        
+
+        
+
+        <div class="right">
+            
+            <div class="external-profiles">
+                <strong>ソーシャルメディア</strong>
+                
+                <a href="https://x.com/rt_masato_nike" target="_blank" rel=""><em class="fab-x-twitter"></em></a>
+                
+            </div>
+            
+
+            
+
+            
+        </div>
+    </div>
+</footer>
+
+
+<div class="credits">
+    <div class="container">
+        <div class="copyright">
+            <a href="https://www.masato-nike.net/" target="_blank">
+                &copy;
+                
+                2016 - 2026
+                
+                by Masato Nike
+            </a>
+            
+        </div>
+        <div class="author">
+            <a href="https://github.com/Lednerb/bilberry-hugo-theme"
+                target="_blank">Bilberry Hugo Theme</a>
+        </div>
+    </div>
+</div>
+
+
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6S8C4VEW55"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6S8C4VEW55');
+</script>
+
+
+    
+
+
+    <script type="text/javascript" src="https://weblog.masato-nike.net/theme.js"></script>
+
+
+    
+    
+    
+
+    
+    <div id="activate-algolia-search" class="hidden">
+  <input type="hidden" id="algolia-search-appId" value="45CEN6X6AT">
+  <input type="hidden" id="algolia-search-apiKey" value="16030625f1a4d0dd3b8aefd794fd4cf1">
+  <input type="hidden" id="algolia-search-indexName" value="bilberry-hugo-theme">
+  <input type="hidden" id="algolia-search-noSearchResults" value="検索結果がありません.">
+
+  
+  <input type="hidden" id="algolia-search-currentLanguageOnly">
+  
+</div>
+
+    
+
+  </div>
+
+
+<p class="nav-fix-pos-pagetop"><a href="#">↑</a></p>
+</body>
+
+</html>
