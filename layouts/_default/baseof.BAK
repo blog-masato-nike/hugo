@@ -1,6 +1,6 @@
 {{- if not .Params.gallery -}}
 {{- if not .Params.featuredImage -}}
-{{ .Scratch.Set "image" (printf "https://www.gravatar.com/avatar/%s?size=200" (md5 .Site.Params.gravatarEMail)) }}
+{{ .Scratch.Set "image" (printf "/ico/favicon-96x96.png" (md5 .Site.Params.gravatarEMail)) }}
 {{- else -}}
 {{ .Scratch.Set "image" (.Params.featuredImage) }}
 {{- end -}}
@@ -48,8 +48,8 @@
     {{- end }}
 
     {{ partial "favicon.html" . }}
-    <script type="text/javascript" src="{{ 'js/fixmenu_pagetop.js' | relURL }}"></script>
-    <script type="text/javascript" src="{{ 'js/openclose.js' | relURL }}"></script>
+    <script type="text/javascript" src="{{ "js/fixmenu_pagetop.js" | relURL }}"></script>
+    <script type="text/javascript" src="{{ "js/openclose.js" | relURL }}"></script>
 
     {{ if .RelPermalink }}
     <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
