@@ -1,7 +1,0 @@
-<!--
-    Insert your favicon definitions here and put the icons in your `/static` folder
-    Check https://realfavicongenerator.net/ for generating your personal Favicon
-
-    Remove this comment.
--->
-<link rel='icon' type='image/png' sizes='96x96' href='/ico/favicon-96x96.png'>
