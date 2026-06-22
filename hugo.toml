@@ -55,27 +55,27 @@ email = "masato_nike@masato-nike.net"
   # commentoJsURL = "https://commento.lednerb.de/js/commento.js"
 
   # Enable / Disable Giscus comments
-  giscus             = true
-  giscusJsUrl        = "https://giscus.app/client.js"
-  giscusRepository   = "[ENTER REPO HERE]"
-  giscusRepositoryId = "[ENTER REPO ID HERE]"
-  giscusMapping      = "pathname"
-  giscusCategory     = "[ENTER CATEGORY NAME HERE]"
-  giscusCategoryId   = "[ENTER CATEGORY ID HERE]"
-  giscusTheme        = "light"
-  giscusReactions    = "1"
-  giscusEmitMetadata = "0"
-  giscusLanguage     = "en"
-  giscusCrossOrigin  = "anonymous"
+  #giscus             = false
+  #giscusJsUrl        = "https://giscus.app/client.js"
+  #giscusRepository   = "[ENTER REPO HERE]"
+  #giscusRepositoryId = "[ENTER REPO ID HERE]"
+  #giscusMapping      = "pathname"
+  #giscusCategory     = "[ENTER CATEGORY NAME HERE]"
+  #giscusCategoryId   = "[ENTER CATEGORY ID HERE]"
+  #giscusTheme        = "light"
+  #giscusReactions    = "1"
+  #giscusEmitMetadata = "0"
+  #giscusLanguage     = "en"
+  #giscusCrossOrigin  = "anonymous"
 
   # Enable / Disable Utterances comments
-  utterances            = false
-  utterancesJsUrl       = "https://utteranc.es/client.js"
-  utterancesRepository  = "[ENTER REPO HERE]"
-  utterancesIssueTerm   = "pathname"
-  utterancesLabel       = "Comment"
-  utterancesTheme       = "github-light"
-  utterancesCrossOrigin = "anonymous"
+  #utterances            = false
+  #utterancesJsUrl       = "https://utteranc.es/client.js"
+  #utterancesRepository  = "[ENTER REPO HERE]"
+  #utterancesIssueTerm   = "pathname"
+  #utterancesLabel       = "Comment"
+  #utterancesTheme       = "github-light"
+  #utterancesCrossOrigin = "anonymous"
 
   # Media configuration
     # let hugo automatically resize and crop your images to the correct sizes
