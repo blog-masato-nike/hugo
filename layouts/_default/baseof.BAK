@@ -46,9 +46,6 @@
     <meta property="og:type" content="website">
     {{- end }}
 
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@rt_masato_nike" />
-
     {{ partial "favicon.html" . }}
     <script type="text/javascript" src="{{ "js/fixmenu_pagetop.js" | relURL }}"></script>
     <script type="text/javascript" src="{{ "js/openclose.js" | relURL }}"></script>
