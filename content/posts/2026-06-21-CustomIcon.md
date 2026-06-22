@@ -4,7 +4,6 @@ date: 2026-06-21T16:26:00+09:00
 author: Masato Nike
 comments: true
 tags: ['Hugo', 'Font Awesome']
-featured_image: '/ico/favicon-96x96.svg'
 ---
 私が利用しているHugoのテンプレートにはあらかじめTwitterなどのアイコンがCSSに定義されていましたが、“X”のアイコンがCSSにはありませんでした。
 そこで、Font Awesomeのフリーアイコンを使用し、“X”のアイコンを表示する方法を記したいと思います。

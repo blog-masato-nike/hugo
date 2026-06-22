@@ -55,7 +55,7 @@ email = "masato_nike@masato-nike.net"
   # commentoJsURL = "https://commento.lednerb.de/js/commento.js"
 
   # Enable / Disable Giscus comments
-  giscus             = false
+  giscus             = true
   giscusJsUrl        = "https://giscus.app/client.js"
   giscusRepository   = "[ENTER REPO HERE]"
   giscusRepositoryId = "[ENTER REPO ID HERE]"
