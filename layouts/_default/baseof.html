@@ -37,17 +37,15 @@
     <meta itemprop="description" content="{{ .Scratch.Get "description" }}">
     <meta property="og:title" content="{{ .Scratch.Get "title" }}">
     <meta property="og:description" content="{{ .Scratch.Get "description" }}">
-    <meta property="og:image" content="{{ "/ico/favicon-96x96.png" | absURL }}">
+    <meta property="og:image" content="{{ "/images/card.png" | absURL }}">
     <meta property="og:url" content="{{ .Permalink | absURL }}">
     <meta property="og:site_name" content="{{ .Site.Title }}">
-    {{- if .IsPage }}
-    <meta property="og:type" content="article">
-    {{- else -}}
     <meta property="og:type" content="website">
-    {{- end }}
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@rt_masato_nike" />
+    <meta name="twitter:image" content="https://www.masato-nike.net/images/card.png" />
+    <meta name="twitter:creator" content="@rt_masato_nike" />
 
     {{ partial "favicon.html" . }}
     <script type="text/javascript" src="{{ "js/fixmenu_pagetop.js" | relURL }}"></script>
