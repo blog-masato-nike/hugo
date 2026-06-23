@@ -55,27 +55,27 @@ email = "masato_nike@masato-nike.net"
   # commentoJsURL = "https://commento.lednerb.de/js/commento.js"
 
   # Enable / Disable Giscus comments
-  #giscus             = false
-  #giscusJsUrl        = "https://giscus.app/client.js"
-  #giscusRepository   = "[ENTER REPO HERE]"
-  #giscusRepositoryId = "[ENTER REPO ID HERE]"
-  #giscusMapping      = "pathname"
-  #giscusCategory     = "[ENTER CATEGORY NAME HERE]"
-  #giscusCategoryId   = "[ENTER CATEGORY ID HERE]"
-  #giscusTheme        = "light"
-  #giscusReactions    = "1"
-  #giscusEmitMetadata = "0"
-  #giscusLanguage     = "en"
-  #giscusCrossOrigin  = "anonymous"
+  giscus             = false
+  giscusJsUrl        = "https://giscus.app/client.js"
+  giscusRepository   = "[ENTER REPO HERE]"
+  giscusRepositoryId = "[ENTER REPO ID HERE]"
+  giscusMapping      = "pathname"
+  giscusCategory     = "[ENTER CATEGORY NAME HERE]"
+  giscusCategoryId   = "[ENTER CATEGORY ID HERE]"
+  giscusTheme        = "light"
+  giscusReactions    = "1"
+  giscusEmitMetadata = "0"
+  giscusLanguage     = "en"
+  giscusCrossOrigin  = "anonymous"
 
   # Enable / Disable Utterances comments
-  #utterances            = false
-  #utterancesJsUrl       = "https://utteranc.es/client.js"
-  #utterancesRepository  = "[ENTER REPO HERE]"
-  #utterancesIssueTerm   = "pathname"
-  #utterancesLabel       = "Comment"
-  #utterancesTheme       = "github-light"
-  #utterancesCrossOrigin = "anonymous"
+  utterances            = false
+  utterancesJsUrl       = "https://utteranc.es/client.js"
+  utterancesRepository  = "[ENTER REPO HERE]"
+  utterancesIssueTerm   = "pathname"
+  utterancesLabel       = "Comment"
+  utterancesTheme       = "github-light"
+  utterancesCrossOrigin = "anonymous"
 
   # Media configuration
     # let hugo automatically resize and crop your images to the correct sizes
@@ -154,7 +154,8 @@ email = "masato_nike@masato-nike.net"
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "https://x.com/rt_masato_nike", icon = "fab-x-twitter"}
+      { link = "https://x.com/rt_masato_nike", icon = "fab-x-twitter"},
+      { link = "https://bsky.app/profile/masato-nike.bsky.social", icon = "fab-bluesky"}
     ]
 
     # credits line configuration
