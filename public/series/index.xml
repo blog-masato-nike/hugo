@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Series on ないきまさとの部屋</title>
+		<link>https://weblog.masato-nike.net/series/</link>
+		<description>Recent content in Series on ないきまさとの部屋</description>
+		<generator>Hugo</generator>
+		<language>ja</language>
+		
+			<managingEditor>masato_nike@masato-nike.net (Masato Nike)</managingEditor>
+		
+		
+			<webMaster>masato_nike@masato-nike.net (Masato Nike)</webMaster>
+		
+		
+		
+			<atom:link href="https://weblog.masato-nike.net/series/index.xml" rel="self" type="application/rss+xml" />
+	</channel>
+</rss>

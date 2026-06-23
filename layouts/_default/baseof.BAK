@@ -26,6 +26,7 @@
 
 <head>
     <meta charset="utf-8">
+    <meta name="google-site-verification" content="kiNRFDBSOnwsYjiFVdye0x0Ho9tKzrXHwv_DtNnwEMY" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="{{ .Site.Params.author }}">
     <meta name="description" content="{{ .Site.Params.description }}">
@@ -44,7 +45,7 @@
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@rt_masato_nike" />
-    <meta name="twitter:image" content="https://www.masato-nike.net/images/card.png" />
+    <meta name="twitter:image" content="{{ "/images/card.png" | absURL }}">
     <meta name="twitter:creator" content="@rt_masato_nike" />
 
     {{ partial "favicon.html" . }}
